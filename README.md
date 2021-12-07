@@ -1,5 +1,4 @@
-### Ultimate server by carcaschoi
-一 One of the parts of [ShallowSea AIO Package](https://github.com/carcaschoi/ShallowSea) Project
+### Ultimate server by briglia
 ### Introduction & Features
 ** just to clarify, IT IS NOT A TINFOIL SHOP WHICH CONTAINS GAMES COPY. 
 * Ultimate server redirects to other alternative shops automatically, so you don't need to add shop manually if the shop links are updated.
@@ -15,10 +14,9 @@ Then adding this Ulimate server in [tinfoil](https://tinfoil.io). It will auto a
 ```
 Protocol: https
 Host: raw.githubusercontent.com
-Path: carcaschoi/tinfoil-json/master/tinfoilshop.json
+Path: briglia/tinfoil-json/master/tinfoilshop.json
 Titles: carcaschoi
 ```
-Video: https://youtu.be/Q3yk6vzCA1E
 
 NOTES: You can reopen tinfoil for few more times if tinfoil crashes after adding ultimate server.
 
